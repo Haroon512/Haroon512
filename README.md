@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Haroon512
+- 👋 Hi, I’m @Muhammad Haroon khan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on react native
-- 📫 How to reach me 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python 
+- 📫 haroonkhanmuhammad739@gmail.com
 
 <!---
 Haroon512/Haroon512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
