@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad Haroon khan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python 
+- 🌱 I’m currently learning Ruby
+- 💞️ I’m looking to collaborate on Ruby
 - 📫 haroonkhanmuhammad739@gmail.com
 
 <!---
